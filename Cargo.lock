@@ -3142,6 +3142,7 @@ dependencies = [
  "ssz_types",
  "superstruct",
  "thiserror 1.0.69",
+ "tokio",
  "tracing",
  "tree_hash",
  "tree_hash_derive",
